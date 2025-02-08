@@ -10,6 +10,8 @@ A secure document management system built with Node.js, Express, MongoDB, and AW
 - File sharing capabilities
 - Real-time collaboration using Socket.IO
 - Secure document access management
+![image](https://github.com/user-attachments/assets/fc984639-50af-41a4-95e5-34158c9981a8)
+
 
 ## Tech Stack
 
